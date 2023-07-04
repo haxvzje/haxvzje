@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm haxvzje, Full-Stack Developer !
+I'm haxvzje, Back-end Developer !
 
 My Languages Skill:
  + Python (Advanced/OOP)
