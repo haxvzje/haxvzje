@@ -2,12 +2,14 @@
 
 I'm haxvzje, Back-end Developer !
 
-My Languages Skill:
- + Python (Advanced/OOP)
- + Java (Basic/OOP)
- + C#/C++ (Basic/OOP)
- + PHP/JS (Basic)
- + Pascal (Basic)
+My Languages & Skills:
+ + Python
+ + Kotlin
+ + Java
+ + Go
+ + C++
+ + PHP/JS
+ + Pascal
 
 
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=haxvzje&style=flat&labelColor=black&logo=github&label=Profile+Views&color=0d8ce0"/>
